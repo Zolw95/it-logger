@@ -1,0 +1,28 @@
+{
+  "logs": [
+    {
+      "message": "Fixed Computer",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-01-22T18:36:47.929Z",
+      "id": 1
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
